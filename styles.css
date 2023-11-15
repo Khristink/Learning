@@ -1,0 +1,26 @@
+body {
+    background: darkkhaki;
+    color: antiquewhite;
+    font-size: 16pt;
+}
+a {
+    color: blanchedalmond;
+}
+a:hover {
+    color: darkgrey;
+    background: blue;
+    text-decoration: none;
+}
+h1 {
+    color: coral;
+    font-size: 20pt;
+    font-family: sans-serif;
+}
+.chorus {
+    margin-left: 30pt;
+    color: darkblue;
+}
+.img-right {
+    rotate: 225deg;
+    margin-top: 70pt;
+ }
